@@ -1,0 +1,25 @@
+{
+    "attributes": {
+        "versao": "4.00"
+    },
+    "tpAmb": "2",
+    "verAplic": "SVAN_1.4.10",
+    "cStat": "104",
+    "xMotivo": "Lote processado",
+    "cUF": "21",
+    "dhRecbto": "2021-12-20T17:58:59-03:00",
+    "protNFe": {
+        "attributes": {
+            "versao": "4.00"
+        },
+        "infProt": {
+            "tpAmb": "2",
+            "verAplic": "SVAN_1.4.10",
+            "chNFe": "21211232727872000142550120000000121000001492",
+            "dhRecbto": "2021-12-20T17:58:59-03:00",
+            "digVal": "2fxH5Vi2GGCVbXJyYaMm6dBRHlU=",
+            "cStat": "204",
+            "xMotivo": "Rejeicao: Duplicidade de NF-e"
+        }
+    }
+}

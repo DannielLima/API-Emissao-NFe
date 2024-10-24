@@ -1,0 +1,25 @@
+{
+    "attributes": {
+        "versao": "4.00"
+    },
+    "tpAmb": "2",
+    "verAplic": "SVRSnfce202111190951",
+    "cStat": "104",
+    "xMotivo": "Lote processado",
+    "cUF": "21",
+    "dhRecbto": "2021-12-24T09:32:48-03:00",
+    "protNFe": {
+        "attributes": {
+            "versao": "4.00"
+        },
+        "infProt": {
+            "tpAmb": "2",
+            "verAplic": "SVRSnfce202111190951",
+            "chNFe": "21211232727872000142650120000000011000001386",
+            "dhRecbto": "2021-12-24T09:32:48-03:00",
+            "digVal": "BKvc+P8iicrOU8le95qfjnDWD18=",
+            "cStat": "709",
+            "xMotivo": "Rejeicao: NFC-e com formato de DANFE invalido"
+        }
+    }
+}

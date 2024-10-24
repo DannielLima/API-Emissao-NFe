@@ -1,0 +1,29 @@
+{
+    "attributes": {
+        "versao": "4.00"
+    },
+    "tpAmb": "2",
+    "verAplic": "SVAN_1.4.10",
+    "cStat": "104",
+    "xMotivo": "Lote processado",
+    "cUF": "21",
+    "dhRecbto": "2021-12-21T08:59:10-03:00",
+    "protNFe": {
+        "attributes": {
+            "versao": "4.00"
+        },
+        "infProt": {
+            "attributes": {
+                "Id": "ID421210000025774"
+            },
+            "tpAmb": "2",
+            "verAplic": "SVAN_1.4.10",
+            "chNFe": "21211232727872000142550120000000161000001530",
+            "dhRecbto": "2021-12-21T08:59:10-03:00",
+            "nProt": "421210000025774",
+            "digVal": "t4y1kL6tAVbNNsHyrzK7iNDbPdA=",
+            "cStat": "100",
+            "xMotivo": "Autorizado o uso da NF-e"
+        }
+    }
+}
